@@ -1,7 +1,6 @@
 ### Hi there 👋
 ### i'm mahbobe fallahi 
-### graduated as a software engineer but an android developer
-<p align="center"><h2 align="center"><samp>mahbobe fallahi </samp></h2></p>
+### graduated as a software engineer
 
 <hr>
 
