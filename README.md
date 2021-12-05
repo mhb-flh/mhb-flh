@@ -1,6 +1,8 @@
 ### Hi there 👋
-### i'm mahbobe fallahi 
+### I'm mahbobe fallahi 
 ### graduated as a software engineer
+
+
 
 <hr>
 
@@ -25,13 +27,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhb-flh&theme=react&count_private=true&hide_border=true" alt="Most Used Languages" />
 </p>
 <hr>
-<hr>
-<p><samp><strong>Contact Me</strong></samp></p>
-<p> 
-  <a href="https://mhb.fallahi@gmail.com/"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://stackoverflow.com/users/9749301/mhb-flh"><img src="https://img.shields.io/badge/-Stackoverflow-white?style=for-the-badge&logo=stackoverflow" alt="Stackoverflow" /></a>
-  <a href="https://www.linkedin.com/in/mahbobe-fallahi/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin" alt="Linkedin" /></a>
-</p>
+<details>
+  <summary><samp><strong>Contact Me</strong></samp></summary><br>
+  <a href="https://mhb.fallahi@gmail.com/"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a><br>
+  <a href="https://www.linkedin.com/in/mahbobe-fallahi/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin" alt="Linkedin" /></a><br>
+  <a href="https://stackoverflow.com/users/9749301/mhb-flh"><img src="https://img.shields.io/badge/-Stackoverflow-white?style=for-the-badge&logo=stackoverflow" alt="Stackoverflow" /></a><br>
+  
+</details>
+
 
 <!--
 **mhb-flh/mhb-flh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
