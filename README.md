@@ -24,9 +24,13 @@
 <hr>
 <p align="center"><samp><strong>Most Used Languages</strong></samp></p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhb-flh&theme=react&count_private=true&hide_border=true" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhb-flh&theme=tokyonight" alt="Most Used Languages" />
+  
 </p>
+
+
 <hr>
+
 <details>
   <summary><samp><strong>Contact Me</strong></samp></summary><br>
   <a href="https://mhb.fallahi@gmail.com/"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a><br>
