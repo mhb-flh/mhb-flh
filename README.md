@@ -24,7 +24,7 @@
 <hr>
 <p align="center"><samp><strong>Most Used Languages</strong></samp></p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhb-flh&theme=react&count_private=true&hide_border=true" alt="Most Used Languages" />
+  <img src="" alt="Most Used Languages" />
 </p>
 <hr>
 <details>
