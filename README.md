@@ -22,9 +22,9 @@
   
 </p>
 <hr>
-<p align="center"><samp><strong>Most Used Languages</strong></samp></p>
+<!-- <p align="center"><samp><strong>Most Used Languages</strong></samp></p> -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhb-flh&theme=tokyonight" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhb-flh&theme=react" alt="Most Used Languages" />
   
 </p>
 
