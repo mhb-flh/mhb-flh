@@ -29,8 +29,7 @@
 </p>
 
 <p>
-  ##### this is my github blog
-<a href="https://mhb-flh.github.io/github-pages-with-jekyll/"></a>
+<a href="https://mhb-flh.github.io/github-pages-with-jekyll/">this is my github blog</a>
 </p>
 
 
