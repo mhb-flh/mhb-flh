@@ -28,9 +28,9 @@
   
 </p>
 
-<p>
+<!-- <p>
 <a href="https://mhb-flh.github.io/github-pages-with-jekyll/">this is my github blog</a>
-</p>
+</p> -->
 
 
 <hr>
