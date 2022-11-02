@@ -10,7 +10,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Android-black?style=for-the-badge&logo=android&logoColor=success&logoWidth=30" alt="android" />
   <img src="https://img.shields.io/badge/-Java-9cf?style=for-the-badge&logo=java&logoColor=black&logoWidth=20" alt="java" />
- 
+  <img src="https://img.shields.io/badge/-Kotlin-pink?style=for-the-badge&logo=Kotlin&logoColor=purple&logoWidth=20" alt="kotlin" />
+
 </p>
 <hr>
 
