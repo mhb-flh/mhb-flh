@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/-Android%20studio-green?style=for-the-badge&logo=android%20studio&logoColor=gray" alt="android studio" />
   <img src="https://img.shields.io/badge/-git-gray?style=for-the-badge&logo=git" alt="Git" />
   <img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github" alt="Github" />
+  <img src="https://img.shields.io/badge/-Figma-white?style=for-the-badge&logo=figma" alt="Figma" />
   
 </p>
 <hr>
